@@ -1,0 +1,8 @@
+D:\CaseResolveTime\CaseResolveTime\bin\Debug\CaseResolveTime.dll
+D:\CaseResolveTime\CaseResolveTime\bin\Debug\CaseResolveTime.pdb
+D:\CaseResolveTime\CaseResolveTime\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\CaseResolveTime\CaseResolveTime\bin\Debug\Microsoft.IdentityModel.dll
+D:\CaseResolveTime\CaseResolveTime\bin\Debug\Microsoft.Xrm.Sdk.xml
+D:\CaseResolveTime\CaseResolveTime\obj\Debug\CaseResolveTime.csprojResolveAssemblyReference.cache
+D:\CaseResolveTime\CaseResolveTime\obj\Debug\CaseResolveTime.dll
+D:\CaseResolveTime\CaseResolveTime\obj\Debug\CaseResolveTime.pdb

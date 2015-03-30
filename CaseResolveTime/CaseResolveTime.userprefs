@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="CaseResolveTime\CaseResolveTime.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CaseResolveTime\CaseResolve.cs">
+    <Files>
+      <File FileName="CaseResolveTime\CaseResolve.cs" Line="71" Column="71" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
